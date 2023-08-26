@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+header {
+    padding: 5px 0;
+    font-size: 30px;   
+}
+
+header nav {
+    text-align: right;
+    font-size: 20px;
+    padding: 10px 0;
+}
+
+.jumbotron {
+    display: flex;
+    align-items: center;
+    color: black;
+    height: 400px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/a9/EFECTOS_%28SANGRE%29_%2893%29.png"); 
+}
+
+.jumbotron h2 {
+    font-size: 60px;
+    font-weight: 700;
+    margin: 0;
+    color: white;
+    -webkit-text-stroke: #000000 1px;
+}
