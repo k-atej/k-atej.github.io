@@ -25,15 +25,12 @@ header h1{
     font-size: 60px;
     font-weight: 700;
     margin: 0;
-    color: white;
-    -webkit-text-stroke: #000000 1px;
-    
+    color: rgb(172, 126, 126);
 }
 
 .jumbotron h3 {
-    color: white;
+    color: rgb(169, 63, 63);
     font-weight: 400;
-    -webkit-text-stroke: #000000 0.5px;
 }
 
 .row .card {
