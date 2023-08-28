@@ -4,6 +4,7 @@ body {
 }
 
 header {
+    background-color: rgb(232, 185, 185);
     padding: 5px 0;
     font-size: 30px;   
 }
@@ -25,7 +26,7 @@ header h1{
     font-size: 60px;
     font-weight: 700;
     margin: 0;
-    color: rgb(172, 126, 126);
+    color: rgb(168, 132, 132);
 }
 
 .jumbotron h3 {
@@ -37,6 +38,7 @@ header h1{
     padding: 20px 0;
     margin: 20px;
     align-items: center;
+    width: auto;
     background-color: whitesmoke;
     border-color: darkred;
 }
@@ -80,5 +82,14 @@ body .row .list-group .list-group-item {
 }
 
 h4 {
+    padding-top: 20px;
     text-align: center;
+}
+
+.foot {
+    background-color: rgb(232, 185, 185);
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-indent: 10px;
 }
