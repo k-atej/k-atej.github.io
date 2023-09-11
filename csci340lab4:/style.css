@@ -1,6 +1,11 @@
+#colorblock {
+    background-color: #fecee2;
+    font-family: Georgia, serif;
+}
+
 .box {
     width: 350px;
-    height: 185px;
+    height: 200px;
     border: 1px solid black;
     padding: 10px;
     margin: auto;
