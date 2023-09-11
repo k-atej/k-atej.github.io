@@ -67,10 +67,6 @@ $(document).ready(function(){
                 else if (decision.answer == "no") {
                     $button.text("NO");
                     $("h2").text("Refresh to try again!");
-                    var img = document.createElement("img");
-                    img.src = "https://pixnio.com/free-images/2021/09/06/2021-09-06-08-16-32-1536x1073.jpg";
-                    var src = $(".container1");
-                    src.append(img);
 
                     $(".table").remove();
                 }
