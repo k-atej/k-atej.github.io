@@ -2,17 +2,17 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Kate> <Jackson>
+  email:             <jacksonke@hendrix.edu>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    My name is Kate Jackson and I am a Senior at Hendrix College studying Biochemistry/Molecular Biology and Computer Science! 
+    In the future, I hope to pursue a Ph.D. and build a career in molecular cancer biology. 
+    My primary interests lie in mechanisms of DNA damage and repair, particularly in relationship to the development of adjuvant cancer therapies.
+    From websites to data analysis tools, my projects aim to bridge the gap between biology and computation, allowing programming to ease and enhance scientific discovery. 
+    Whether I am creating custom tools for experimental data or automating everyday lab tasks, I see every project as a step towards a career in research!
 
   # This photo will be used in the about section
   picture:
@@ -27,8 +27,8 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <username>
-    github:          <username>
+    #twitter:         <username>
+    github:          <k.atej>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
