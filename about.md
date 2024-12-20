@@ -19,12 +19,15 @@ redirect_from:
 
 
 ## CV
+View PDF [HERE](assets/img/CV_Kathleen_Jackson.pdf)
 ![image](/assets/img/CVpages/1.png)
+{:.width="884" height="632" loading="lazy"}
 ![image](/assets/img/CVpages/2.png)
+{:.width="884" height="632" loading="lazy"}
 ![image](/assets/img/CVpages/3.png)
+{:.width="884" height="632" loading="lazy"}
 ![image](/assets/img/CVpages/4.png)
-{:.lead width="884" height="632" loading="lazy"}
-{:.no-hover.no-mark}
+{:.width="884" height="632" loading="lazy"}
 
 <!--[![Resume PDF](/assets/img/CV_Kathleen_Jackson){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}-->
 
