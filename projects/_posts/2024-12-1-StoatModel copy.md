@@ -17,7 +17,7 @@ Stoat populations in New Zealand have been a key factor for the decline of endem
 ## Population Dynamics
 ![image](../../assets/img/projects/stoats/populationdynamics.png)
 
-To model the growth of stoat populations and subsequent prey populations, we first used dynamical system modeling. We initially used the Lotka-Volterra predator prey model, ut found that the model was limited by initial populations of predators. We then pivoted to a modified logistic model that included additional considerations such as hunting efficiency and rate of predation. 
+To model the growth of stoat populations and subsequent prey populations, we first used dynamical system modeling. We initially used the Lotka-Volterra predator prey model, but found that the model was limited by initial populations of predators. We then pivoted to a modified logistic model that included additional considerations such as hunting efficiency and rate of predation. 
 
 ## Agent Based Modeling
 ![image2](../../assets/img/projects/stoats/trapping.png)
