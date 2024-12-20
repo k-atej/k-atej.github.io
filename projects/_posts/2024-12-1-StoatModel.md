@@ -2,11 +2,11 @@
 layout: post
 title: Modeling Invasive Stoats in New Zealand
 description: >
-  Final Project for Scientific Computing
+  Final Project for Scientific Computing: "Stoat | Jispa, Himachal Pradesh" by soumyajit nandy is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse.
 image: ../../assets/img/projects/stoats/stoat.jpg
 sitemap: false
 ---
-*Header: "Stoat | Jispa, Himachal Pradesh" by soumyajit nandy is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse.*
+
 
 
 This project was my final in Scientific Computing at Hendrix. In this class, we were paired up for the final project. Most groups' topics were sourced from the COMAP Mathematical Contest in Modeling, but my partner and I both wanted a topic with a greater biological focus. We decided to focus on modeling invasive stoat populations in New Zealand. 
