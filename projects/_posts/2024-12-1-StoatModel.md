@@ -2,7 +2,7 @@
 layout: post
 title: Modeling Invasive Stoats in New Zealand
 description: >
-  Final Project for Scientific Computing: "Stoat : Jispa, Himachal Pradesh" by soumyajit nandy is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse.
+  "Stoat : Jispa, Himachal Pradesh" by soumyajit nandy is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse.
 image: ../../assets/img/projects/stoats/stoat.jpg
 sitemap: false
 ---
