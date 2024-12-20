@@ -19,7 +19,10 @@ redirect_from:
 
 
 ## CV
-[CV PDF](/assets/img/CV_Kathleen_Jackson)
+![image](/assets/img/CVpages/1.png)
+![image](/assets/img/CVpages/2.png)
+![image](/assets/img/CVpages/3.png)
+![image](/assets/img/CVpages/4.png)
 {:.lead width="884" height="632" loading="lazy"}
 {:.no-hover.no-mark}
 
