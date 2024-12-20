@@ -19,7 +19,7 @@ redirect_from:
 
 
 ## CV
-[![Resume PDF](/assets/img/CV_Kathleen_Jackson){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
+[Resume PDF](/assets/img/CV_Kathleen_Jackson)
 
 
 <!--[![Resume PDF](/assets/img/CV_Kathleen_Jackson){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}-->
